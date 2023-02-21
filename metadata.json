@@ -1,12 +1,13 @@
 {
+  "format": "scripture burrito",
   "meta": {
-    "version": "1.0.0-rc1",
+    "version": "1.0.0-rc2",
     "category": "template",
     "templateName": {
       "en": "A Minimal and Frankly Pointless Template"
     },
     "defaultLocale": "en",
-    "dateCreated": "2022-01-07T00:00:00+00:00"
+    "dateCreated": "2023-02-21T00:00:00+00:00"
   },
   "copyright": {
     "publicDomain": true
